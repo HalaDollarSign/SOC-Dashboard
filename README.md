@@ -47,6 +47,7 @@ SOC-Dashboard/
 │
 ├── requirements.txt           # Project dependencies
 └── README.md                  # Project documentation
+```
 
 
 ⚙️ Installation & Running Locally
@@ -60,9 +61,9 @@ SOC-Dashboard/
 4.Launch the SOC dashboard:
 	python -m streamlit run src/app.py
 
-	Usage Overview
-Live Packet Simulator: Simulate incoming requests from specific IP addresses via the sidebar to test anomaly detection in real time.
-
-Batch Ingestion: Upload the provided data/sample_traffic.csv file to ingest bulk logs and analyze volume spikes using integrated charts.
+Usage Overview
+- Live Packet Simulator: Simulate incoming requests from specific IP addresses via the sidebar to test anomaly detection in real time.
+- Batch Ingestion: Upload the provided data/sample_traffic.csv file to ingest bulk logs and analyze volume spikes using integrated charts.
+- Incident Response: Manage active threats, inspect blocked sources, and download structured JSON incident reports for post-incident analysis.
 
 Incident Response: Manage active threats, inspect blocked sources, and download structured JSON incident reports for post-incident analysis.
