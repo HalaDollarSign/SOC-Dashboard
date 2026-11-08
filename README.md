@@ -4,6 +4,10 @@ A modular, real-time Security Operations Center (SOC) dashboard and threat monit
 
 ---
 
+<img width="1897" height="983" alt="image" src="https://github.com/user-attachments/assets/4438ad69-6817-41c3-aae2-ac5004008049" />
+
+---
+
 ## 🚀 Key Features
 
 * **Real-Time Traffic Analysis:** Monitors incoming source IPs and evaluates traffic patterns against dynamic threshold rules.
