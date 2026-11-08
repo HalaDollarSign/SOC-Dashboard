@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.slnx
+*.suo
+
+# Python / Pytest cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Streamlit / OS artifacts
+.DS_Store
