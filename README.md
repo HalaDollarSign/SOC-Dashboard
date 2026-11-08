@@ -51,12 +51,12 @@ SOC-Dashboard/
 
 
 ⚙️ Installation & Running Locally
-1.Clone the repository:
+# 1.Clone the repository:
 git clone [https://github.com/HalaDollarSign/SOC-Dashboard.git](https://github.com/twoj-login/SOC-Dashboard.git)
 cd SOC-Dashboard
-2.Install dependencies:
+# 2.Install dependencies:
 pip install -r requirements.txt
-3.Run unit tests:
+# 3.Run unit tests:
 python -m pytest
 4.Launch the SOC dashboard:
 python -m streamlit run src/app.py
