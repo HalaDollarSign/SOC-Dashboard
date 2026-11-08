@@ -52,14 +52,14 @@ SOC-Dashboard/
 
 ⚙️ Installation & Running Locally
 1.Clone the repository:
-	git clone [https://github.com/HalaDollarSign/SOC-Dashboard.git](https://github.com/twoj-login/SOC-Dashboard.git)
-	cd SOC-Dashboard
+git clone [https://github.com/HalaDollarSign/SOC-Dashboard.git](https://github.com/twoj-login/SOC-Dashboard.git)
+cd SOC-Dashboard
 2.Install dependencies:
-	pip install -r requirements.txt
+pip install -r requirements.txt
 3.Run unit tests:
-	python -m pytest
+python -m pytest
 4.Launch the SOC dashboard:
-	python -m streamlit run src/app.py
+python -m streamlit run src/app.py
 
 Usage Overview
 - Live Packet Simulator: Simulate incoming requests from specific IP addresses via the sidebar to test anomaly detection in real time.
